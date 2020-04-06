@@ -1,4 +1,4 @@
-<div style="width: 100%; text-align: center"><img src='https://www.sparkdev.me/package-logo/com.spark.myriad/.png' style="width: 150px; border-radius: 30px; margin: 0 auto;" /></div>
+<div style="width: 100%; text-align: center"><img src='https://www.sparkdev.me/package-logo/com.spark.myriad/.png' width="150" margin="0 auto" /></div>
 
 # Myriad Beta Bug Tracker
  
