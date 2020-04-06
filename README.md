@@ -1,4 +1,4 @@
-![Myriad](https://www.sparkdev.me/package-logo/com.spark.myriad/.png)
+<img src='https://www.sparkdev.me/package-logo/com.spark.myriad/.png' style="width: 150px; border-radius: 10%" />
 
 # Myriad Beta Bug Tracker
  
