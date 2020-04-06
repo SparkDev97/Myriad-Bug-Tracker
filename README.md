@@ -4,4 +4,4 @@
  
 **Note: Please check for existing issues before posting one. Duplicate issues will be removed.**
 
-### [Submit an issue](https://github.com/SparkDev97/Myriad-Bug-Tracker/issues/new/choose)
+## [Submit an issue](https://github.com/SparkDev97/Myriad-Bug-Tracker/issues/new/choose)
